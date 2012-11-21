@@ -1,13 +1,41 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# General
+*.log
+build/
+bin/
+obj/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Mac OS X
+*.DS_store
+*.bak
+*.old
+*.swp
+*~.nib
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Linux
+~*
+*~
+*.depend
+
+# Visual Studio Express
+*.csproj
+*.filters
+*.ncb
+*.opensdf
+*.scc
+*.sdf
+*.suo
+*.user
+*.vbproj
+*.vsscc
+*.vspscc
+ipch/
