@@ -12,7 +12,7 @@ Please note that this repo does not include the actual assets and only the sourc
 
 ### Support
 
-Feel free to visit our forums to discuss the engine and request technical support: http://www.senscape.com/forum
+Feel free to visit our forums to discuss the engine and request technical support: http://www.senscape.net/forum
 
 ### Copyright
 
