@@ -3,6 +3,7 @@
 build/
 bin/
 obj/
+resources/
 
 # Mac OS X
 *.DS_store
