@@ -4,7 +4,7 @@ zip=Asylum_Teaser_Unix.zip
 sha256_1=96fac7e8bbbb5cb200ae41c87e48eb15b21ca3cf18791a40ebf2e0b4b519effd
 
 if [ ! -f $zip ] ; then
-    wget -O $zip "http://www.facethehorror.com/teaser/download.php?id=ubuntu"
+    wget "http://www.facethehorror.com/files/$zip"
 fi
 
 sha256_2=$(sha256sum $zip | head -c64)
